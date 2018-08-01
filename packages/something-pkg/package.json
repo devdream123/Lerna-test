@@ -1,15 +1,14 @@
 {
-  "name": "dannie-pkg",
-  "version": "1.2.2",
+  "name": "something-pkg",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "author": "",
   "license": "ISC",
-  "gitHead": "55412b7c51b249f79231650f2ee68225507edd88"
+  "dependencies": {
+    "dannie-pkg": "^1.2.2"
+  }
 }
