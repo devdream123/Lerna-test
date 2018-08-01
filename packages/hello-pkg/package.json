@@ -1,11 +1,12 @@
 {
   "name": "hello-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "195c5f73332faf28ec0449463f9e30cbfa890de8"
 }
