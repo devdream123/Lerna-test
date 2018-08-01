@@ -1,6 +1,6 @@
 {
   "name": "dannie-pkg",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "e5b0d83bcaa201779f841cab2e551c642e3f0f8c"
+  "gitHead": "e734d62396352f95894d0a4cf9633f505e97899b"
 }
