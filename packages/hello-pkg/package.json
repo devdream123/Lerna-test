@@ -1,6 +1,6 @@
 {
-  "name": "hello-pkg",
-  "version": "1.0.7",
+  "name": "dannie-pkg",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "564ea47f1f9bc0e0b1b218879a0999e2373d9757"
+  "gitHead": "3415d85109e804c4cb5bca53ea6c1fbae016d038"
 }
