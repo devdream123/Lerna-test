@@ -1,6 +1,6 @@
 {
   "name": "something-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dannie-pkg": "^1.2.2"
-  }
+    "dannie-pkg": "^1.2.3"
+  },
+  "gitHead": "1e04b444c9b4118017d5f9fa2025c068742b6e05"
 }
