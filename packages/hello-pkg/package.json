@@ -1,6 +1,6 @@
 {
   "name": "hello-pkg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "be527a1998a0a9c6572bcb8c3d41cf2f04976995"
+  "gitHead": "ca2cbeaf06524dda70755973b95e011420dbbabf"
 }
